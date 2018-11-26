@@ -40,7 +40,7 @@ class gtld_handler extends WhoisClient
                         'Registrar WHOIS Server:' => 'regyinfo.whois',
                         'Referral URL:' => 'regyinfo.referrer',
                         'Name Server:' => 'regrinfo.domain.nserver.',  // identical descriptors
-			 'Updated Date:' => 'regrinfo.domain.changed',
+			  'Updated Date:' => 'regrinfo.domain.changed',
                         'Last Updated On:' => 'regrinfo.domain.changed',
                         'EPP Status:' => 'regrinfo.domain.epp_status.',
                         'Status:' => 'regrinfo.domain.status.',
